@@ -3,4 +3,4 @@ print("hello world")
 def test():
     return 1
 
-index=2
+index=-1

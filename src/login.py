@@ -9,3 +9,7 @@ def logout():
 def reset_password():
     print("Reset password function called")
     return True
+
+def change_password():
+    print("Change password function called")
+    return True

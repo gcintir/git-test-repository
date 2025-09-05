@@ -1,4 +1,4 @@
 user = {
     "name": "Alice",
-    "ext-id": "0"
+    "id": "null"
 }

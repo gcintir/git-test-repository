@@ -1,3 +1,4 @@
 user = {
-    "name": "Alice"
+    "name": "Alice",
+    "id": "null"
 }
